@@ -54,6 +54,4 @@ Predict customer spending behavior
 
 👨‍💻 Author
 Shahnawaz Shaikh
-
-Your Name
 Data Analyst Aspirant
